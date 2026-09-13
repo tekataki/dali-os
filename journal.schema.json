@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "DALI OS - Núcleo del contrato de bitácora manual v1",
+  "description": "No implica que exista un procesador IA. Los campos son editados y confirmados por la persona usuaria. Validación del núcleo equivalente en Domain.validateJournal.",
+  "type": "object",
+  "required": ["title", "text", "summary", "productivity", "reason", "tags"],
+  "properties": {
+    "title": {"type": "string", "minLength": 1},
+    "text": {"type": "string", "minLength": 1},
+    "summary": {"type": "string"},
+    "productivity": {"type": "integer", "minimum": 0, "maximum": 100},
+    "reason": {"type": "string"},
+    "tags": {"type": "array", "items": {"type": "string"}}
+  },
+  "additionalProperties": true
+}

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"><defs>
+<symbol id="sales" viewBox="0 0 24 24"><path fill="currentColor" d="M5 2h14v20l-3-2-4 2-4-2-3 2V2zm3 4v2h8V6H8zm0 5v2h8v-2H8zm0 5v2h5v-2H8z"/></symbol>
+<symbol id="clients" viewBox="0 0 24 24"><path fill="currentColor" d="M5 3h5v2h2v5h-2v2H5v-2H3V5h2zm-3 12h11v2h2v5H0v-5h2z"/><path fill="currentColor" opacity=".45" d="M16 5h4v2h2v5h-2v2h-4v-2h-2V7h2zm1 12h5v2h2v3h-7z"/></symbol>
+<symbol id="refund" viewBox="0 0 24 24"><path fill="currentColor" d="M6 2h3v4h10v3h3v11h-3V9H9v4H6v-3H3V8H0V6h3V4h3zM6 17h9v3H6z"/></symbol>
+<symbol id="investment" viewBox="0 0 24 24"><path fill="currentColor" opacity=".4" d="M2 15h4v7H2zm7-5h4v12H9zm7-5h4v17h-4z"/><path fill="currentColor" d="M1 10h3V7h4V4h5V1h10v9h-3V5h-6v2H9v3H5v3H1z"/></symbol>
+<symbol id="fuel" viewBox="0 0 24 24"><path fill="currentColor" d="M3 2h11v18h2v3H1v-3h2V2zm3 3v6h5V5H6zM16 3h3v3h3v3h2v10h-3v-7h-3V9h-2V3z"/></symbol>
+<symbol id="food" viewBox="0 0 24 24"><path fill="currentColor" d="M1 12h22v4h-3v4H4v-4H1v-4zm5 9h12v2H6zM5 1h2v9H5zM11 1h2v9h-2z"/><path fill="currentColor" opacity=".4" d="M18 1h2v3h-2v3h-2V4h2z"/></symbol>
+<symbol id="gym" viewBox="0 0 24 24"><path fill="currentColor" d="M4 4h4v6h8V4h4v3h3v10h-3v3h-4v-6H8v6H4v-3H1V7h3V4z"/></symbol>
+<symbol id="school" viewBox="0 0 24 24"><path fill="currentColor" d="M4 2h17v20H4v-2H2V4h2V2zm3 3v14h11V5H7z"/><path fill="currentColor" opacity=".5" d="M9 7h7v2H9zm0 4h7v2H9zm0 4h4v2H9z"/></symbol>
+<symbol id="personal" viewBox="0 0 24 24"><path fill="currentColor" d="M8 2h8v2h2v8h-2v2H8v-2H6V4h2zm-3 15h14v2h3v4H2v-4h3z"/></symbol>
+<symbol id="other" viewBox="0 0 24 24"><path fill="currentColor" d="M2 3h8v8H2zm12 0h8v8h-8zM2 15h8v8H2z"/><path fill="currentColor" opacity=".4" d="M14 15h8v8h-8z"/></symbol>
+</defs></svg>
